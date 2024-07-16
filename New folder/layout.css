@@ -1,0 +1,31 @@
+.nav-layout{
+	background-color: grey;
+	height: 15vh;
+	margin-bottom: 10px;
+
+}
+.lay{
+	background-color: grey;
+	height: 30vh;
+}
+.joe{
+	display: flex;
+	flex-direction:row ;
+	margin-top: 10px;
+	gap: 20px;
+}
+.joe div{
+
+background: grey;
+height: 25vh;
+width: 35%;
+}
+.point{
+	background-color: grey;
+	height: 15vh;
+	margin-top: 10px;
+
+
+}
+@media only screen and (max-width:600px){
+	.joe

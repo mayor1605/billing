@@ -1,0 +1,95 @@
+.main-div{
+    border:1px ;
+    height: 60vh;
+    justify-content: center;
+    text-align: center;  
+   background-color: white;
+   border-radius: 17px;
+   width: 20em;
+   margin-right: auto;
+   margin-left: auto;
+   opacity: 0px;
+}
+
+.email{
+    border: 1px ;
+    width: 16em;
+    height: 30px;
+    border-radius: 3px;
+    border-style:outset ;
+}
+
+.pass{
+    border: 1px ;
+    width: 16em;
+    height: 30px;
+    border-radius: 3px;
+    border-style:outset ;
+}
+
+.sign-in-button{
+    width: 16.5em;
+    height:29px ;
+    border-radius: 5px ;
+    background-color:rgb(5, 183, 253) ;
+    margin-bottom: 17px;
+}
+
+.fp{
+   text-decoration: none;
+   color: rgb(37, 99, 99);
+   
+}
+.fp:hover{
+    color: rgb(0, 12, 12);
+    cursor: pointer;
+   
+  
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    gap: 26px;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+
+.but{
+  width: 12em;
+  height: 5vh;
+  background-color: white;
+  color: rgb(14, 122, 255);
+border: 1px;
+border-style:outset ;
+border-radius: 14px;
+cursor: pointer;
+}
+
+p{
+    text-align:initial;
+    margin-top: 31px;
+}
+body{
+    background-image: url(img_mountains.jpg);
+   background-repeat: no-repeat;
+ background-size: cover;
+   
+    
+}
+h2{
+    color: rgb(5, 183, 253);
+}
+.x{
+  margin-top: 40px;
+}
+.style{
+    width: 16.5em;
+    height:29px ;
+    border-radius: 5px ;
+    background-color:rgb(5, 183, 253) ;
+   
+    
+}

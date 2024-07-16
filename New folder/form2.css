@@ -1,0 +1,237 @@
+body{
+	background-color: lightsteelblue;
+}
+.main-div{
+/*	background-color:whitesmoke;*/
+    border: 4px black ;
+    border-radius: 0.5em;
+    display: flex;
+    justify-content: center;
+
+}
+.There{
+	margin-top: 20px;
+	background-color:white;
+    border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+    margin:  10px 0px;
+     width: 567px;
+    justify-content: center;
+
+}
+
+.mail{
+	border: 0;
+	border-bottom: 1px ;
+	width: 30%;
+
+}
+
+
+.intro-div{
+	background-color: white;
+	margin-bottom: 10px;
+	 border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+    padding: 20px;
+    border-top: 15px lightblue solid;
+    width: 567px;
+    justify-content: center;
+
+
+
+
+}
+.fullname{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+     width: 567px;
+    justify-content: center;
+
+
+}
+.name{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+
+.phonenumber{
+background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;	
+     width: 567px;
+    justify-content: center;
+}
+.number{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+
+			
+.NKO{
+background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+     width: 567px;
+    justify-content: center;
+
+}
+.KO{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+
+}
+.fees{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+     width: 567px;
+    justify-content: center;
+}
+.pay{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+     width: 567px;
+    justify-content: center;
+    padding: 20px;
+}
+.loc{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+     width: 567px;
+    justify-content: center;
+    padding: 20px;
+}
+.loca{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+.curr{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+     width: 567px;
+    justify-content: center;
+    padding: 20px;
+}
+.Current{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+.why{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+     width: 567px;
+    justify-content: center;
+}
+
+.wh{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+.how{
+	background-color: white;
+	margin-top: 10px;
+	border: 4px black ;
+    border-radius: 0.5em;
+    padding: 20px;
+     width: 567px;
+    justify-content: center;
+}
+
+.ho{
+	border: 0;
+	border-bottom: 1px  black solid;
+	width: 30%;
+}
+h4{
+	color: lightslategray;
+}
+button{
+	color: black;
+	background-color: lightblue;
+	height: 10px;
+	width: 70px;
+	border-radius: 7px;
+	cursor: pointer;
+	padding: 13px;
+	
+
+
+}
+
+
+button:hover{
+	background-color: white;
+}
+
+.layout{
+	background-color: lightgreen;
+	margin-bottom: 10px;
+	 border: 4px black ;
+    border-radius: 0.5em;
+    height: 15px;
+    width: 200px;
+    
+    
+}
+.last-details{
+	display: flex;
+	gap: 30px;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.claer-form{
+	color: black;
+	height: 10px;
+	width: 70px;
+	border-radius: 7px;
+	cursor: pointer;
+	padding: 13px;
+}
+.claer-form:hover{
+	color: white;
+
+}
+p.graf{
+	color:lightslategray;
+	font-size: 11px;
+	justify-content: center;
+	display: flex;
+	align-content: center;
+}
+.brand{
+	font-size: large;
+	color: lightslategray;
+	text-align: center;
+}
+.google{
+	font-weight: bold;
+	color: gray;
+}

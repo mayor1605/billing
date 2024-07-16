@@ -1,0 +1,10 @@
+.form-div{
+border: 4px black solid;
+width: fit-content;
+}
+
+.input-radius{
+	border-radius: 0.5em;
+	border: 0;
+	padding: 6px;
+}

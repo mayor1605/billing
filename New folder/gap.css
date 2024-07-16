@@ -1,0 +1,67 @@
+.fist{
+	display: flex;
+	flex-direction: row;
+	gap: 40px;
+	
+	margin-top: 20px;
+	}
+.fist div{
+	height: 20vh;
+	width: 40%;
+	background-color: lightsteelblue;
+	padding: 15px;
+	border-radius: 15px;
+	
+}
+.fist:hover{
+	opacity: 0.7;
+}
+.sec{
+	height: 20vh;
+	background-color: lightsteelblue;
+	padding: 15px;
+	border-radius: 15px;
+	margin-top: 20px;
+}
+.initial{
+	display: flex;
+	flex-direction: row;
+	gap: 40px;
+	margin-top: 20px;
+}
+.initial div{
+	height: 20vh;
+	width: 30%;
+	padding: 15px;
+	border-radius: 15px;
+	background-color: lightsteelblue;
+}
+.last{
+	background-color: lightsteelblue;
+	height: 15vh;
+	margin-top: 15px;
+	border-radius: 15px;
+	padding: 5px;
+}
+.main{
+	
+	
+	flex-direction: column;
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	width: 60px;
+	background-color: lightsteelblue;
+}
+li{
+	display: block;
+	color: black;
+	padding: 7px 17px;
+	text-decoration: none;
+}
+l:hover{
+	background-color: grey;
+	color: palegoldenrod;
+}
